@@ -7,7 +7,7 @@
         "angular-cookies": "latest",
         "angular-mocks": "latest",
         "angular-route": "latest",
-        "foundation": "4.2.1-1",
+        "foundation": "latest",
         "angular-bootstrap": "0.7.0",
         "angular-ui-utils": "0.0.4"
     }
